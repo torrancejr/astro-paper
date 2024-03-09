@@ -4,7 +4,7 @@ pubDatetime: 2024-03-08T15:57:52.737Z
 title: Top 20 ChatGpt Prompts
 slug: top-ten-daily-chatgpt-prompts
 featured: true
-ogImage: ../../assets/images/ChatGpt.jpg
+ogImage: ././assets/images/ChatGpt.jpg
 tags:
   - chatgpt
   - ai

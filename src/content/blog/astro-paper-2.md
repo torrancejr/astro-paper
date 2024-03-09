@@ -16,7 +16,7 @@ Introduction
 
 ChatGPT, an embodiment of AI's creative and cognitive capabilities, has become a wellspring of innovation and insight for individuals across various fields. Central to unlocking its vast potential are daily prompts—thoughtful cues designed to inspire, challenge, and enlighten. This guide unveils the top 20 ChatGPT prompts, each a key to unleashing a world of creativity, knowledge, and problem-solving acumen.
 
-![AstroPaper v4](@assets/images/ChatGpt.jpg)
+![ChatGPT](@assets/images/ChatGpt.jpg)
 Top 20 ChatGPT Prompts
 
 Motivational Quote of the Day: "What's a motivational quote for today?"

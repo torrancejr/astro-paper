@@ -119,7 +119,7 @@ yarn create astro --template satnaing/astro-paper
 You can easily add your [Google Site Verification HTML tag](https://support.google.com/webmasters/answer/9008080#meta_tag_verification&zippy=%2Chtml-tag) in AstroPaper using environment variable. This step is optional. If you don't add the following env variable, the google-site-verification tag won't appear in the html `<head>` section.
 
 ```bash
-# in your environment variable file (.env)
+# in your environment variable file (.env.development)
 PUBLIC_GOOGLE_SITE_VERIFICATION=your-google-site-verification-value
 ```
 

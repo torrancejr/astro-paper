@@ -14,7 +14,7 @@ description: How to add Tailwind CSS to Rails 7
 
 1. Install Tailwind CSS
 Install the tailwindcss-rails gem, and then run the install command to generate a tailwind.config.js file in the ./config directory.
-<pre> <code class="language-rb">./bin/bundle add tailwindcss-rails
+<pre> <code class="language-javascript">./bin/bundle add tailwindcss-rails
 ./bin/rails tailwindcss:install</code></pre>
 2. Configure your template paths
 Add the paths to all of your template files in your tailwind.config.js file. Plugins can be added using npm install @@tailwindcss/[plugin-name] and added to other required plugin names.

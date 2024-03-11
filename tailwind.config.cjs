@@ -61,10 +61,10 @@ module.exports = {
         DEFAULT: {
           css: {
             pre: {
-              color: false,
+              color: true,
             },
             code: {
-              color: false,
+              color: true,
             },
           },
         },

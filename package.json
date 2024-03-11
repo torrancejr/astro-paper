@@ -23,6 +23,7 @@
     "dotenv": "^16.4.5",
     "fuse.js": "^7.0.0",
     "github-slugger": "^2.0.0",
+    "prismjs": "^1.29.0",
     "remark-collapse": "^0.1.2",
     "remark-toc": "^9.0.0",
     "satori": "^0.10.11",

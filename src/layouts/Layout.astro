@@ -3,6 +3,11 @@ import { LOCALE, SITE } from "@config";
 import "@styles/base.css";
 import { ViewTransitions } from "astro:transitions";
 
+import "prismjs/themes/prism.css";
+import "prismjs/components/prism-javascript";
+import "prismjs/components/prism-css";
+import "prismjs/components/prism-markup";
+
 const googleSiteVerification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
 
 export interface Props {
@@ -119,6 +124,15 @@ const socialImageURL = new URL(
       gtag("js", new Date());
 
       gtag("config", "G-2L0VR5TFC5");
+    </script>
+    <script>
+      import Prism from "prismjs";
+      // Optionally, import additional languages or plugins here
+
+      // Automatically highlight all code on the page after component mounts
+      useEffect(() => {
+        Prism.highlightAll();
+      }, []);
     </script>
   </head>
   <body>

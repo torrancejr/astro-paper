@@ -4,7 +4,7 @@ pubDatetime: 2024-03-10T16:57:52.737Z
 title: How to Add Tailwind CSS to your Rails 7 Project
 slug: rails-7-and-tailwind-css
 featured: true
-ogImage: ././assets/images/Clock.jpg
+ogImage: ././assets/images/tailwind-code.jpg
 tags:
   - rails 7
   - css

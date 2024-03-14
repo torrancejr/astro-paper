@@ -3,7 +3,7 @@ author: Ryan Torrance
 pubDatetime: 2024-03-09T16:57:52.737Z
 title: The Origin of Daylight Savings Time
 slug: daylight-savings-time-origin
-featured: true
+featured: false
 ogImage: ././assets/images/Clock.jpg
 tags:
   - spring forward

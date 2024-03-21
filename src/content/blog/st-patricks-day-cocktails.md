@@ -3,7 +3,7 @@ author: Ryan Torrance
 pubDatetime: 2024-03-14T12:57:52.737Z
 title: Top 5 St. Patrick's Day Cocktails
 slug: top-5-st-particks-day-cocktails
-featured: true
+featured: false
 ogImage: ././assets/images/ChatGpt.jpg
 tags:
   - st. partick's day

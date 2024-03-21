@@ -1,6 +1,6 @@
 ---
 author: Ryan Torrance
-pubDatetime: 2024-03-21T16:57:52.737Z
+pubDatetime: 2024-03-20T16:57:52.737Z
 title: A Beginner's Guide to Learning About Ai.
 slug: aws-skillbuilder-ai
 featured: true

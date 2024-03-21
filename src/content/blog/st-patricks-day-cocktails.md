@@ -13,7 +13,7 @@ tags:
 description: Quick and easy St. Patrick's Day cocktails.
 ---
 
-Here are the top 5 St. Patrick's Day cocktails, along with directions on how to make them. Whether you're hosting a party or simply enjoying a quiet evening at home, these festive drinks are sure to add some cheer to your celebration.
+Here are the top 5 St. Patrick's Day cocktails, along with directions on how to make them. Whether you're hosting a party or simply enjoying a quiet evening at home, these festive drinks are sure to add some cheer to your celebration .
 ![StPatricksDay](@assets/images/StPatricksDay.jpg)
 
 1. Irish Coffee

@@ -4,7 +4,7 @@ pubDatetime: 2024-03-20T16:57:52.737Z
 title: A Beginner's Guide to Learning About Ai.
 slug: aws-skillbuilder-ai
 featured: true
-ogImage: ././assets/images/SkillBuilderAi.png
+ogImage: ../../assets/images/SkillBuilderAi.png
 tags:
   - ai
   - machine learning

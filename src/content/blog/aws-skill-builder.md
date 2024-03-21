@@ -40,7 +40,7 @@ How to Get Started with AWS Skill Builder
 
 AWS Skill Builder is an excellent resource for anyone looking to develop or enhance their cloud computing skills with AWS, offering a range of materials suited for different learning styles and levels
 
-I took a screenshot of the above free courses I am doing to get you started. It is a $29 monthly subscription for more in depth learning paths once you get a solid foundation.
+I took a screenshot of the above free courses I am doing to get you started. It is a $29 monthly subscription for more in depth learning paths once you get a solid foundation .
 
 Happy Learning!
 

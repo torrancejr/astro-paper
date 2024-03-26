@@ -3,7 +3,7 @@ author: Ryan Torrance
 pubDatetime: 2024-03-21T12:57:52.737Z
 title: NCAA Tournament Host Cities and Dates
 slug: ncaa-tournament-host-cities-and-dates
-featured: true
+featured: false
 ogImage: ../../assets/images/Ncaa.jpeg
 tags:
   - ncaa

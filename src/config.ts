@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://techbyryan.com/", // replace this with your deployed domain
   author: "Ryan Torrance",
-  desc: "TechByRyan.com is your ultimate destination for exploring the universe of technology. A blog about everything from latest technology insights and tutorials to gaming and ai.",
+  desc: "TechByRyan.com is my digital sandbox - a place where I can share tech trends, gaming, ai, tutorials, new gadgets, and anything else that piques my interest",
   title: "TechByRyan",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
@@ -40,7 +40,7 @@ export const SOCIALS: SocialObjects = [
     name: "Instagram",
     href: "https://instagram.com/ryantorrance",
     linkTitle: `${SITE.title} on Instagram`,
-    active: false,
+    active: true,
   },
   {
     name: "LinkedIn",
@@ -50,13 +50,13 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Mail",
-    href: "mailto:wixenco@gmail.com",
-    linkTitle: `Send an email to ${SITE.title}`,
-    active: false,
+    href: "mailto:ryan@wixenco.com",
+    linkTitle: `Send an email to ryan@wixenco.com`,
+    active: true,
   },
   {
     name: "Twitter",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://wixenco.com",
     linkTitle: `${SITE.title} on Twitter`,
     active: false,
   },

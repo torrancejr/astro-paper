@@ -4,7 +4,7 @@ pubDatetime: 2024-03-24T16:57:52.737Z
 title: The Best Hunger Game Movies Ranked.
 slug: hunger-game-movies-ranked
 featured: false
-ogImage: ../../assets/images/SkillBuilderAi.png
+ogImage: /assets/Katniss.jpeg
 tags:
   - katniss
   - hunger games
